@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TardisCh
-- 👀 I’m interested in GIS and Remote Sensing Image Processing.
-- 🌱 I’m currently learning distributed ML
+- 👀 I’m interested in GIS application and Remote Sensing Image processing.
+- 🌱 I’m currently learning distributed ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
